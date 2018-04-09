@@ -1,8 +1,6 @@
 # Programação Competitiva no URI Online Judge
 
-Ao clicar no número do problema, você é direcionado(a) para o código correspondente.
-
-Número | Nome do Problema | Categoria | Linguagem
+Código | Nome do Problema | Categoria | Linguagem
 |     :---:      |     :---:      |     :---:      |     :---:      |  
 [1076](https://github.com/CaioDallaqua/Programacao_Competitiva_URI/blob/master/Grafos/1076.cpp) | [Desenhando Labirintos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1076) | Grafos | C++
 [1082](https://github.com/CaioDallaqua/Programacao_Competitiva_URI/blob/master/Grafos/1082.cpp) | [Componentes Conexos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1082) | Grafos | C++
