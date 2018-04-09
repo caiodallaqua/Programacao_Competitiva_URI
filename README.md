@@ -1,6 +1,6 @@
 # Programação Competitiva no URI Online Judge
 
-Ao clicar no número do problema, você é direcionado para o código correspondente.
+Ao clicar no número do problema, você é direcionado(a) para o código correspondente.
 
 Número | Nome do Problema | Categoria | Linguagem
 |     :---:      |     :---:      |     :---:      |     :---:      |  
