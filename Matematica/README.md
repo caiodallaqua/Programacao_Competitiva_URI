@@ -1,4 +1,4 @@
-# Programação Competitiva no URI Online Judge
+# Problemas de Matemática no URI Online Judge
 
 Código | Nome do Problema | Categoria | Linguagem
 |     :---:      |     :---:      |     :---:      |     :---:      |  
