@@ -17,8 +17,13 @@ Código | Nome do Problema | Categoria | Linguagem
 [1247](https://github.com/CaioDallaqua/Programacao_Competitiva_URI/blob/master/Matematica/1247.cpp) | [Guarda Costeira](https://www.urionlinejudge.com.br/judge/pt/problems/view/1247) | Matemática | C++
 [1323](https://github.com/CaioDallaqua/Programacao_Competitiva_URI/blob/master/Matematica/1323.cpp) | [Feynman](https://www.urionlinejudge.com.br/judge/pt/problems/view/1323) | Matemática | C++
 [1393](https://github.com/CaioDallaqua/Programacao_Competitiva_URI/blob/master/Matematica/1393.cpp) | [Lajotas Hexagonais](https://www.urionlinejudge.com.br/judge/pt/problems/view/1393) | Matemática | C++
-
-[]() | []() | Matemática | C++
-
-
-Tabela ainda incompleta.
+[1429](https://github.com/CaioDallaqua/Programacao_Competitiva_URI/blob/master/Matematica/1429.cpp) | [Fatorial de Novo!](https://www.urionlinejudge.com.br/judge/pt/problems/view/1429) | Matemática | C++
+[1436](https://github.com/CaioDallaqua/Programacao_Competitiva_URI/blob/master/Matematica/1436.cpp) | [Jogo do Tijolo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1436) | Matemática | C++
+[1457](https://github.com/CaioDallaqua/Programacao_Competitiva_URI/blob/master/Matematica/1457.cpp) | [Oráculo de Alexandria](https://www.urionlinejudge.com.br/judge/pt/problems/view/1457) | Matemática | C++
+[1512](https://github.com/CaioDallaqua/Programacao_Competitiva_URI/blob/master/Matematica/1512.cpp) | [Azulejos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1512) | Matemática | C++
+[1554](https://github.com/CaioDallaqua/Programacao_Competitiva_URI/blob/master/Matematica/1554.cpp) | [Bilhar N+1](https://www.urionlinejudge.com.br/judge/pt/problems/view/1554) | Matemática | C++
+[1555](https://github.com/CaioDallaqua/Programacao_Competitiva_URI/blob/master/Matematica/1555.cpp) | [Funções](https://www.urionlinejudge.com.br/judge/pt/problems/view/1555) | Matemática | C++
+[1582](https://github.com/CaioDallaqua/Programacao_Competitiva_URI/blob/master/Matematica/1582.cpp) | [O Teorema de Pitágoras](https://www.urionlinejudge.com.br/judge/pt/problems/view/1582) | Matemática | C++
+[1620](https://github.com/CaioDallaqua/Programacao_Competitiva_URI/blob/master/Matematica/1620.cpp) | [Triangulação de Delaunay](https://www.urionlinejudge.com.br/judge/pt/problems/view/1620) | Matemática | C++
+[1647](https://github.com/CaioDallaqua/Programacao_Competitiva_URI/blob/master/Matematica/1647.cpp) | [Um Jogo com Bolas de Gude](https://www.urionlinejudge.com.br/judge/pt/problems/view/1647) | Matemática | C++
+[1805](https://github.com/CaioDallaqua/Programacao_Competitiva_URI/blob/master/Matematica/1805.cpp) | [Soma Natural](https://www.urionlinejudge.com.br/judge/pt/problems/view/1805) | Matemática | C++
