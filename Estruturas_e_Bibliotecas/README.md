@@ -1,4 +1,4 @@
-# Problemas de Paradigmas no URI Online Judge
+# Problemas de Estruturas e Bibliotecas no URI Online Judge
 
 Código | Nome do Problema | Categoria | Linguagem
 |     :---:      |     :---:      |     :---:      |     :---:      |  
